@@ -1,0 +1,342 @@
+repo_name: bhimjipatel/aws-cdk-pyhon
+report_id: 763ecdd429f1314103f61a8104a151ba
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-19T07:19:33+00:00'
+requested_by: og121public
+provider: github
+branch: main
+detected_tools_count: 28
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: SQLAlchemy
+  description: The Python SQL Toolkit and Object Relational Mapper
+  website_url: http://www.sqlalchemy.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
+  detection_source: python/custom-resource-lambda-rds/lambda/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: python/api-cors-lambda/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: python/sagemaker-multimodel-endpoint/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  version: 6.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-pyhon/blob/main/python/apigw-http-api-lambda-dynamodb-python-cdk/requirements-dev.txt
+  detection_source: python/api-stages-lambda/requirements-dev.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source: python/url-shortener/pinger/Dockerfile
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: python/api-cors-lambda/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source: python/sagemaker-multimodel-endpoint/docker/Dockerfile
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: aws-cdk.aws-cloudformation
+  description: CDK Constructs for AWS CloudFormation
+  package_url: https://pypi.org/project/aws-cdk.aws-cloudformation
+  version: 1.134.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20642/default_1f91e3cb37fe4743e2124ed8deff78b3df1329a4.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-pyhon/blob/main/python/custom-resource-lambda-rds/requirements.txt
+  detection_source: python/custom-resource-lambda-rds/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: aws-cdk.aws-dynamodb
+  description: CDK Constructs for AWS DynamoDB
+  package_url: https://pypi.org/project/aws-cdk.aws-dynamodb
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: python/dynamodb-lambda/setup.py
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: aws-cdk.aws-ec2
+  description: CDK Constructs for AWS EC2
+  package_url: https://pypi.org/project/aws-cdk.aws-ec2
+  version: 1.134.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20435/default_0af1a91d6fdefcfffb8cd8c09bb54468583cce6e.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-pyhon/blob/main/python/custom-resource-lambda-rds/requirements.txt
+  detection_source: python/custom-resource-lambda-rds/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: aws-cdk.aws-events
+  description: AWS CloudWatch Events Construct Library
+  package_url: https://pypi.org/project/aws-cdk.aws-events
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20351/default_f465c24287ef1189cebf97fef20e50d0bbc5623d.png
+  detection_source: python/dynamodb-lambda/setup.py
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: aws-cdk.aws-events-targets
+  description: Event targets for AWS CloudWatch Events
+  package_url: https://pypi.org/project/aws-cdk.aws-events-targets
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: python/dynamodb-lambda/setup.py
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: aws-cdk.aws-lambda
+  description: CDK Constructs for AWS Lambda
+  package_url: https://pypi.org/project/aws-cdk.aws-lambda
+  version: 1.134.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20188/default_c5c395350b07388a35a5e9efffb0ea706d6e196d.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-pyhon/blob/main/python/custom-resource-lambda-rds/requirements.txt
+  detection_source: python/custom-resource-lambda-rds/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: aws-cdk.core
+  description: AWS Cloud Development Kit Core Library
+  package_url: https://pypi.org/project/aws-cdk.core
+  version: 1.41.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19933/default_be2d81964cc94ab130a840a7c3c910471f9fbd86.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-pyhon/blob/main/python/api-eventbridge-lambda/setup.py
+  detection_source: python/api-eventbridge-lambda/setup.py
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: awscli
+  description: Universal Command Line Environment for AWS
+  package_url: https://pypi.org/project/awscli
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20010/default_01ad0299ca69c7b3e7fb7fee7a49e261bc9d294a.png
+  detection_source: python/image-content-search/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: boto3
+  description: The AWS SDK for Python
+  package_url: https://pypi.org/project/boto3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source: python/dynamodb-lambda/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: botocore
+  description: Low-level, data-driven core of boto 3
+  package_url: https://pypi.org/project/botocore
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19884/default_b8be3f20d4af87021ae3618d5c50b72c985ea31f.png
+  detection_source: python/dynamodb-lambda/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: cattrs
+  description: Composable complex class support for attrs
+  package_url: https://pypi.org/project/cattrs
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20384/default_7b61839e75a7cebc498b55310254338ecd1b0b7c.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-pyhon/blob/main/python/lambda-from-container/requirements.txt
+  detection_source: python/lambda-from-container/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: cfnresponse
+  description: Send a response object to a custom resource by way of an Amazon S3
+    presigned URL
+  package_url: https://pypi.org/project/cfnresponse
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: python/custom-resource-lambda-rds/lambda/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: jsii
+  description: Python client for jsii runtime
+  package_url: https://pypi.org/project/jsii
+  version: 1.14.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19937/default_33cd769f45954740da26824e035edca16b8b6b14.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-pyhon/blob/main/python/lambda-from-container/requirements.txt
+  detection_source: python/lambda-from-container/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source: python/sagemaker-multimodel-endpoint/requirements.txt
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2023-09-15 21:19:59.000000000 Z
